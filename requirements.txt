@@ -1,3 +1,7 @@
 Flask==2.2.2
 langchain==0.0.113
 openai==0.26.4
+jieba==0.42.1
+tiktoken==0.3.3
+unstructured==0.5.9
+chromadb=0.3.17

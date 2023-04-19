@@ -17,7 +17,7 @@ source MY_ENV/bin/activate
 
 #### 2. Install requirements
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 #### 3. Start development server
